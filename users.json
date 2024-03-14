@@ -1,10 +1,10 @@
-{"details": [{"joined": "2024-01-12", "country": "CZ"}], "email": "jwhite@gmail.com", "full_name": "Jackson White"},
-{"details": [{"joined": "2024-01-14", "country": "FR"}], "email": "mblake@gmail.com", "full_name": "Michael Blake"}
-{"details": [{"joined": "2024-01-15", "country": "DE"}], "email": "kjohnson@gmail.com", "full_name": "Katherine Johnson"}
-{"details": [{"joined": "2024-01-18", "country": "JP"}], "email": "tadams@gmail.com", "full_name": "Thomas Adams"}
-{"details": [{"joined": "2024-01-22", "country": "IT"}], "email": "ecarter@gmail.com", "full_name": "Emily Carter"}
-{"details": [{"joined": "2024-01-25", "country": "ES"}], "email": "dwalker@gmail.com", "full_name": "David Walker"}
-{"details": [{"joined": "2024-02-03", "country": "AU"}], "email": "shughes@gmail.com", "full_name": "Sarah Hughes"}
-{"details": [{"joined": "2024-02-19", "country": "CA"}], "email": "mlopez@gmail.com", "full_name": "Maria Lopez"}
-{"details": [{"joined": "2024-03-01", "country": "GB"}], "email": "rwright@gmail.com", "full_name": "Rachel Wright"}
-{"details": [{"joined": "2024-03-12", "country": "US"}], "email": "jjackson@gmail.com", "full_name": "Jessica Jackson"}
+{"joined": "2024-01-12", "country": "CZ", "email": "jwhite@gmail.com", "full_name": "Jackson White"},
+{"joined": "2024-01-14", "country": "FR", "email": "mblake@gmail.com", "full_name": "Michael Blake"}
+{"joined": "2024-01-15", "country": "DE", "email": "kjohnson@gmail.com", "full_name": "Katherine Johnson"}
+{"joined": "2024-01-18", "country": "JP", "email": "tadams@gmail.com", "full_name": "Thomas Adams"}
+{"joined": "2024-01-22", "country": "IT", "email": "ecarter@gmail.com", "full_name": "Emily Carter"}
+{"joined": "2024-01-25", "country": "ES", "email": "dwalker@gmail.com", "full_name": "David Walker"}
+[{"joined": "2024-02-03", "country": "AU", "email": "shughes@gmail.com", "full_name": "Sarah Hughes"}
+{"joined": "2024-02-19", "country": "CA", "email": "mlopez@gmail.com", "full_name": "Maria Lopez"}
+{"joined": "2024-03-01", "country": "GB", "email": "rwright@gmail.com", "full_name": "Rachel Wright"}
+{"joined": "2024-03-12", "country": "US", "email": "jjackson@gmail.com", "full_name": "Jessica Jackson"}
